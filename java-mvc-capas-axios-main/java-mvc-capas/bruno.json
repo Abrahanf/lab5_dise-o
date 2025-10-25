@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "java-mvc-capas",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
